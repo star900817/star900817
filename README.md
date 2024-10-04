@@ -6,7 +6,6 @@ Full-Stack & AI & Blockchain
 
 I am an accomplished Full Stack Engineer with over eight years of experience specializing in both backend and frontend development. My expertise spans architecting and implementing microservices-based enterprise solutions, developing robust authentication mechanisms, and leveraging cloud-native technologies for scalable, efficient deployments. I have a strong background in integrating advanced AI technologies, including Generative AI, into practical applications. My experience includes leading development teams, ensuring code quality through comprehensive reviews and testing, and maintaining agile methodologies to enhance productivity and deliver high-quality solutions. I am dedicated to leveraging my technical expertise and leadership skills to drive innovation and deliver exceptional results in full stack development.
 
-* ✉️  You can contact me at [allguru0817@gmail.com](mailto:allguru0817@gmail.com)
 * 🧠  I'm learning WebGL & Three.js.
 * 🤝  I'm open to collaborating on 3D Website Development.
 * ⚡  Passion is my trust skill.
